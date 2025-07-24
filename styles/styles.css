@@ -78,7 +78,7 @@ top: 50px; }
 
 /* plants */
 
-.bloom-plant{background-image: url('/image/deal-bloom.png');
+/* .bloom-plant{background-image: url('./image/deal-bloom.png');
   background-size: cover;
 width: 367px;
   height: 206px;
@@ -91,7 +91,7 @@ justify-content: center;
   color: aliceblue;
   
 
-}
+} */
 
 .ana-plant{background-image: url('/image/deal-ana.png');
    background-size: cover;
@@ -107,7 +107,7 @@ justify-content: center;
   
 
 }
-.zabo-plant{background-image: url('/image/deal-zabo.png');
+.zabo-plant{background-image: url('image deal-zabo.png');
 
  background-size: cover;
 width: 753px;
