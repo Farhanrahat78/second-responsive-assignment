@@ -54,15 +54,77 @@ border-radius: 0px 0px 15px 15px;}
 .our-plans{margin-top: 150px;}
 
 .flower-plants{gap: 80px;
-  margin-top: 180px;
+
 }
 
 .flower-store{
+  margin-top: 200px;
   width:540px ;
   height: 600px;
 }
-.trusted-badge{ height: 280px;
+.trusted-badge{ margin: auto;
+  height: 280px;
   width: 280px;
-   position: relative;
-  left: 390px;
-top: -720px;}
+  position:relative;
+  left:-360px ;
+top: 50px; }
+
+
+
+.latest{margin-top: 100px;}
+
+/* plants */
+
+.bloom-plant{background-image: url('/image/deal-bloom.png');
+  background-size: cover;
+width: 400px;
+  height: 206px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+justify-content: center;
+  margin-bottom: 50px;
+  color: aliceblue;
+  
+
+}
+
+.ana-plant{background-image: url('/image/deal-ana.png');
+   background-size: cover;
+   width: 400px;
+height: 195px;
+border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+justify-content: center;
+  margin-bottom: 50px;
+  color: aliceblue;
+  
+
+}
+.zabo-plant{background-image: url('/image/deal-zabo.png');
+
+ background-size: cover;
+width: 1140px;
+  height: 423px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+justify-content: center;
+  margin-bottom: 50px;
+  color: aliceblue;
+  
+}
+.all-plant{display: flex;
+ 
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+flex-direction: row;
+margin-top: 150px;}
+  
+.vertical-collage{height: 50%;
+}
