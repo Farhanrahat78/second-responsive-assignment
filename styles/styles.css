@@ -107,7 +107,7 @@ justify-content: center;
   
 
 }
-.zabo-plant{background-image: url('/image/zabo.png');
+.zabo-plant{
 
  background-size: cover;
 width: 753px;
@@ -119,8 +119,9 @@ width: 753px;
 justify-content: center;
   margin-bottom: 50px;
   color: aliceblue;
-  
-}
+  } 
+
+
 .all-plant{display: flex;
   margin: auto;
 
