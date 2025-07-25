@@ -78,7 +78,7 @@ top: 50px; }
 
 /* plants */
 
-/* .bloom-plant{background-image: url('./image/deal-bloom.png');
+ .bloom-plant{background-image: url('/image/bloom.png');
   background-size: cover;
 width: 367px;
   height: 206px;
@@ -88,12 +88,12 @@ width: 367px;
   text-align: center;
 justify-content: center;
   margin-bottom: 50px;
-  color: aliceblue;
+  color: aliceblue;}
   
 
-} */
 
-.ana-plant{background-image: url('/image/deal-ana.png');
+
+.ana-plant{background-image: url('/image/ana.png');
    background-size: cover;
    width: 367px;
 height: 200px;
@@ -107,7 +107,7 @@ justify-content: center;
   
 
 }
-.zabo-plant{background-image: url('image deal-zabo.png');
+.zabo-plant{background-image: url('/image/zabo.png');
 
  background-size: cover;
 width: 753px;
@@ -122,8 +122,8 @@ justify-content: center;
   
 }
 .all-plant{display: flex;
-  gap: 0px;
-  padding: 0;
+  margin: auto;
+
  
   justify-content: center;
   align-items: center;
