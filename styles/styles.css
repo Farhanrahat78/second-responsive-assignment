@@ -78,7 +78,7 @@ top: 50px; }
 
 /* plants */
 
- .bloom-plant{background-image: url('/image/bloom.png');
+ .bloom-plant{
   background-size: cover;
 width: 367px;
   height: 206px;
@@ -93,7 +93,7 @@ justify-content: center;
 
 
 
-.ana-plant{background-image: url('/image/ana.png');
+.ana-plant{
    background-size: cover;
    width: 367px;
 height: 200px;
@@ -122,7 +122,7 @@ justify-content: center;
   } 
 
 
-.all-plant{display: flex;
+.all-plant{
   margin: auto;
 
  
